@@ -1185,6 +1185,10 @@ button {
     padding-left: 38px;
   }
 
+  .modal-comment {
+    padding: 8px 16px;
+  }
+
   .modal-input:focus {
     border: 1px solid #4d5ae5;
   }
